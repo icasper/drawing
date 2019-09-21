@@ -1,0 +1,25 @@
+{
+  "name": "drawing",
+  "version": "1.0.0",
+  "description": "shape drawing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icasper/drawing.git"
+  },
+  "keywords": [
+    "drawing"
+  ],
+  "author": "Ian Casper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icasper/drawing/issues"
+  },
+  "homepage": "https://github.com/icasper/drawing#readme",
+  "dependencies": {
+    "svg": "^0.1.0"
+  }
+}
